@@ -1,2 +1,7 @@
-# SQL-Odev1
-SQL DERSI ODEV1
+# SQL Odev1
+
+ 
+
+
+
+
