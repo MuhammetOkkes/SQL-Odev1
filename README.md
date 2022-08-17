@@ -1,4 +1,4 @@
-# SQL Odev1
+# SQL Odevler
 Patika Linkim : https://app.patika.dev/okkes
 
  
